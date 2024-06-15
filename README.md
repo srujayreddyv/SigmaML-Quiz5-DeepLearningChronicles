@@ -1,6 +1,6 @@
 # Deep Learning Chronicles
 
-Welcome to **Deep Learning Chronicles**! This repository is dedicated to summarizing and providing insights into important research papers in the field of deep learning. Each paper is linked with a detailed summary and a blog post for an in-depth understanding.
+Welcome to **Deep Learning Chronicles**! This repository is dedicated to summarizing and providing insights into important research papers in the field of deep learning. Each paper is linked with a short summary and a blog post for an in-depth understanding.
 
 ## Table of Contents
 
