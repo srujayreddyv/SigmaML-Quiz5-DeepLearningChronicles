@@ -5,7 +5,7 @@
 - Rob Fergus, New York University, Courant Institute, Dept. of Computer Science
 
 ### Abstract
-Large Convolutional Network models have recently demonstrated impressive classification performance on the ImageNet benchmark. However, there is no clear understanding of why they perform so well, or how they might be improved. This paper introduces a novel visualization technique that provides insight into the function of intermediate feature layers and the operation of the classifier. These visualizations allow the identification of model architectures that outperform previous results on the ImageNet classification benchmark.
+In this paper, the authors explore why large Convolutional Neural Networks models (CNNs) achieve such high performance on the ImageNet benchmark and how these models can be further improved. They introduce a new visualization technique that provides insights into the roles of intermediate feature layers and the classifier's operation. This technique helps identify model architectures that perform better than previous models on ImageNet. Additionally, the authors conduct an ablation study to understand the contribution of different model layers to the overall performance. They also show that their model generalizes well to other datasets, achieving top results on Caltech-101 and Caltech-256 when the softmax classifier is retrained.
 
 ### Keywords
 - Convolutional Neural Networks
